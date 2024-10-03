@@ -17,6 +17,7 @@
     "@types/bun": "latest"
   },
   "dependencies": {
+    "framer-motion": "^11.10.0",
     "solid-js": "^1.8.11"
   },
   "module": "index.ts",
